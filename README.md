@@ -2,7 +2,7 @@
 
 [![tests](https://github.com/f20220970-debug/soma-growth-console/actions/workflows/tests.yml/badge.svg)](https://github.com/f20220970-debug/soma-growth-console/actions/workflows/tests.yml)
 
-**Live app:** _add your Streamlit link here after deploying_
+**Live app:** (https://soma-growth-console-ctm3kxywkrrytky4rbgrxr.streamlit.app/)
 
 A planning tool for a founder's office at a commission-revenue insurance brokerage. You move the drivers and operating levers, and ARR, cash runway, unit economics and plan risk update live. It's built for **Soma AI's Founder's Office** application.
 
